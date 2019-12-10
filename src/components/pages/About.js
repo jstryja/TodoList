@@ -5,8 +5,10 @@ export default function About() {
     <React.Fragment>
       <h1>About</h1>
       <p>
-        This is TodoList app based on React Crash Course
-        https://www.youtube.com/watch?v=sBws8MSXN7A&t=3872s
+        This is TodoList app based on{" "}
+        <a href="https://www.youtube.com/watch?v=sBws8MSXN7A&t=3872s">
+          React Crash Course
+        </a>
       </p>
     </React.Fragment>
   );
